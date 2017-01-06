@@ -1,0 +1,17 @@
+source /packages/synopsys/primetime/J-2014.12-SP3/admin/setup/.synopsys_pt.setup
+source /courses/engr852/engr852-59/asic_flow_setup_32/lib_gen/lib_container.tcl
+# Read the synthesized netlist
+read_verilog /courses/engr852/engr852-59/ME/REPORTS/ICC/ME_Final_extracted.v
+# set the top module name .
+current_design topmodule
+read_parasitics -format SPEF /courses/engr852/engr852-59/ME/REPORTS/ICC/ME_Final_extracted.spef.max
+# Read in the SDC from the synthesis
+read_sdc /courses/engr852/engr852-59/ME/REPORTS/ICC/ME_Final_extracted.sdc
+# analysis of the design
+#set_case_analysis 1 -in scanEn
+#If STA is desired on scan chains, the set case for the scanEn must be set to ‘1’
+#All four types of analysis can be accomplished by using the following commands:
+# Reporting setup time and hold time. Primetime by default reports the setup time. Youcan report the setup or hold time by specifying the delay_type 
+read_parasitics -format SPEF /courses/engr852/engr852-59/ME/REPORTS/ICC/ME_Final_extracted.spef.min
+# Reporting timing with capacitance and transition time at each level in the path
+# save your session and come back later if you chose to.

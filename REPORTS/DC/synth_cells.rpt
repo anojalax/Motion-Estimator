@@ -1,0 +1,56 @@
+ 
+****************************************
+Report : cell
+Design : topmodule
+Version: I-2013.12-SP2
+Date   : Mon Dec 19 20:56:49 2016
+****************************************
+
+Attributes:
+    b - black box (unknown)
+    h - hierarchical
+    n - noncombinational
+    r - removable
+    u - contains unmapped logic
+
+Cell                      Reference       Library             Area  Attributes
+--------------------------------------------------------------------------------
+c                         control                         803.603338
+                                                                    h, n
+comparator1               Comparator                      1709.372577
+                                                                    h, n
+pe0                       pe_0                            352.243584
+                                                                    h, n
+pe1                       pe_15                           352.243584
+                                                                    h, n
+pe2                       pe_14                           352.243584
+                                                                    h, n
+pe3                       pe_13                           352.243584
+                                                                    h, n
+pe4                       pe_12                           352.243584
+                                                                    h, n
+pe5                       pe_11                           352.243584
+                                                                    h, n
+pe6                       pe_10                           352.243584
+                                                                    h, n
+pe7                       pe_9                            352.243584
+                                                                    h, n
+pe8                       pe_8                            352.243584
+                                                                    h, n
+pe9                       pe_7                            352.243584
+                                                                    h, n
+pe10                      pe_6                            352.243584
+                                                                    h, n
+pe11                      pe_5                            352.243584
+                                                                    h, n
+pe12                      pe_4                            352.243584
+                                                                    h, n
+pe13                      pe_3                            352.243584
+                                                                    h, n
+pe14                      pe_2                            352.243584
+                                                                    h, n
+pe15                      pe_1                            352.243584
+                                                                    h, n
+--------------------------------------------------------------------------------
+Total 18 cells                                            8148.873254
+1

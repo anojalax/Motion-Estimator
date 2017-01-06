@@ -1,0 +1,32 @@
+-------------------------------------------------------
+
+PrimeTime save_session README file
+
+-------------------------------------------------------
+
+PrimeTime Version: 
+	J-2014.12-SP3 for amd64 -- Apr 17, 2015
+Save Session Date:
+	Mon Dec 19 20:59:18 2016
+ 
+-------------------------------------------------------
+
+Command log of this session is saved in "cmd_log".
+If the saved session is moved to a different location, 
+    please update the paths in the cmd_log file accordingly, 
+    in order to use the GCA in-design flow.
+-------------------------------------------------------
+
+Current Design: topmodule
+
+Technology librares referenced by this session:
+/packages/process_kit/generic/generic_32nm/SAED32_EDK/lib/stdcell_hvt/db_ccs/saed32hvt_ff1p16v125c.db     saed32hvt_ff1p16v125c.db
+/packages/process_kit/generic/generic_32nm/SAED32_EDK/lib/stdcell_hvt/db_ccs/saed32hvt_ff1p16v25c.db     saed32hvt_ff1p16v25c.db
+/packages/process_kit/generic/generic_32nm/SAED32_EDK/lib/stdcell_hvt/db_ccs/saed32hvt_ff1p16vn40c.db     saed32hvt_ff1p16vn40c.db
+/packages/process_kit/generic/generic_32nm/SAED32_EDK/lib/stdcell_hvt/db_ccs/saed32hvt_ss0p95v125c.db     saed32hvt_ss0p95v125c.db
+/packages/process_kit/generic/generic_32nm/SAED32_EDK/lib/stdcell_hvt/db_ccs/saed32hvt_ss0p95v25c.db     saed32hvt_ss0p95v25c.db
+/packages/process_kit/generic/generic_32nm/SAED32_EDK/lib/stdcell_hvt/db_ccs/saed32hvt_ss0p95vn40c.db     saed32hvt_ss0p95vn40c.db
+/packages/process_kit/generic/generic_32nm/SAED32_EDK/lib/stdcell_hvt/db_ccs/saed32hvt_tt1p05v125c.db     saed32hvt_tt1p05v125c.db
+/packages/process_kit/generic/generic_32nm/SAED32_EDK/lib/stdcell_hvt/db_ccs/saed32hvt_tt1p05v25c.db     saed32hvt_tt1p05v25c.db
+/packages/process_kit/generic/generic_32nm/SAED32_EDK/lib/stdcell_hvt/db_ccs/saed32hvt_tt1p05vn40c.db     saed32hvt_tt1p05vn40c.db
+-------------------------------------------------------

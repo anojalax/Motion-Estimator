@@ -1,0 +1,7 @@
+$finish called from file "top_tb.v", line 44.
+$finish at simulation time 83331.0 ns
+Simulation complete, time is 83331000 ps.
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 83331000 ps
+CPU Time:      0.180 seconds;       Data structure size:   0.0Mb
+Mon Dec 19 20:16:03 2016
